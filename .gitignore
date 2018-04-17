@@ -1,5 +1,6 @@
 20180216/
 .DS_Store
+combined_files.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
